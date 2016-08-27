@@ -1,1 +1,3 @@
 Hello, Ready learners!
+
+Git is great. 
